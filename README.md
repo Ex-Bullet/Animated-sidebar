@@ -1,4 +1,4 @@
-This is Animated sidebar project made using Next.js
+This is Animated sidebar project made using Next.js and Framer Motion library.
 
 ## Getting Started
 

@@ -38,8 +38,7 @@ const Sidebar = () => {
               ref={ref}
               aria-label="Sidebar"
             >
-              <div className="flex items-center justify-between p-5 border-b-2 border-zinc-800">
-                <span>Welcome</span>
+              <div className="flex items-center justify-end p-5 border-b-2 border-zinc-800">
                 <button
                   onClick={toggleSidebar}
                   className="p-3 border-2  rounded-xl"
